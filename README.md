@@ -1,6 +1,6 @@
 # FathersDay 父亲节 -- H5
 
-访问地址：http://h5.villagenes.com/FathersDay/
+手机、ipad 访问地址：http://h5.villagenes.com/FathersDay/
 
 
 页面截图展示：
